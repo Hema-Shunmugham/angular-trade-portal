@@ -37,8 +37,8 @@ Ensure you have installed:
   npm install -g @angular/cli
 
 ## Installation
-git clone https://github.com/your-username/live-trade-portal.git
-cd live-trade-portal
+git clone https://github.com/Hema-Shunmugham/angular-trade-portal.git
+cd angular-trade-portal
 npm install
 
 ## Run
